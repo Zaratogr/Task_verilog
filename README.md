@@ -1,1 +1,1 @@
-# Task_verilog
+# Task1, Task2. Verilog
